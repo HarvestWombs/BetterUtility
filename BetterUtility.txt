@@ -1,0 +1,38 @@
+*Settings	HcIDx	Enabled	Par1	Par2	Par3	Par4	*eol
+Increase Loot Cap (Par1 = ##, default = 6)	0	0	6				0
+Allow Auras to recalculate zero	1	0					0
+Regenerate maps in Single Player	2	0					0
+Maximum Items to Gamble (Par1 = ##, default 14)	3	0	14				0
+Items* always drop Identified (Magic, Rare, Set, Unique)	4	0				0,0,0,0	0
+Remove Rings and Amulets from gamble	5	0					0
+Shift Click Limit (5 stats per click)	6	0					0
+HyperJoin	7	0					0
+Display Smite Damage for all classes	8	0					0
+Display Kick Damage for all classes	9	0					0
+Enable Classic blocking	10	0					0
+Use GambleCost for Items	11	0					0
+Change Screenshot Location	12	0				Screenshots/Screenshot%03d.jpg	0
+Disable Classic, Expansion only characters	13	0					0
+Display ilvl	14	0					0
+Umon column affects all difficulties	15	0					0
+Increase Music Limit (Par1 = Last music Index number)	16	0	4698				0
+Imbue Quality (Parameter = Quality)	17	0	7				0
+Cain always charges to identify (Par1 = Charge Cost)	18	0	100				0
+Make unique column specify quality	19	0					0
+Starting Items get stats (Par1 = Item Level, Par2 = Quality, Par3 = Remove NEWBIE_ITEM flag?)	20	0	5	6	1		0
+Control which qualities can have Runewords (1=TRUE), See Appendix	21	0				1,1,1,0,0,0,0,0,0	0
+Control which qualities can have Automagic (1=FALSE), See Appendix	22	0				0,0,0,0,1,0,1,0,0	0
+Anya reward quality (Parameter = Quality)	23	0	6				0
+Softcode Book and Scroll Names	24	0					0
+Telekenisis takes all items	25	0					0
+PlayersX command: NOT WORKING	26	0					0
+CPU Fix	27	0					0
+Akara Ring Reward (Par1 = Quality, Par3 = iLvl per Difficulty (Norm, NM, Hell), Par4 = ItemCode)	28	0	4		7,30,60	206E6972	0
+Ormus Ring Reward (Par1 = Quality, Par3 = iLvl per Difficulty (Norm, NM, Hell), Par4 = ItemCode)	29	0	6		21,35,75	206E6972	0
+Book of Skill (Par1 = Stat Index, Par3 = Stat Value Per Difficulty (Norm, NM, Hell), Par4 = ItemCode)	30	0	5		1,1,1	20737361	0
+Potion of Life: NOT WORKING	31	0	2	0	7,5120	207A7978	0
+Lam Esen Tome (Par1 = Stat Index, Par2 = Stat Value, Par4 = ItemCode)	32	0	4	5		20626262	0
+Den of Evil Reward per difficulty (Par1 = Stat Index, Par3 = Normal, Nightmare, Hell)	33	0	5		1,1,1		0
+Izual Reward per difficulty (Par1 = StatIndex, Par3 = Normal, Nightmare, Hell)	34	0	5		2,2,2		0
+Hardcore Only Characters	35	0					0
+Increase Automagic limit (Par1 = number of bits) 2^par = x	36	0	11				0
